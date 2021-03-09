@@ -22,7 +22,7 @@ public class User {
     /**
      * 展现一下用户有多少钱
      */
-    public void show(){
+    public void     show(){
         System.out.println("我叫"+name+",有"+money+"钱");
     }
 }
